@@ -1,46 +1,46 @@
-# Logs
+# Logs and Debugging
 *.log
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# Dependencies
+# Node.js Dependencies
 node_modules/
 package-lock.json
 yarn.lock
 
-# Byte-compiled files (Python)
+# Python Bytecode and Virtual Environments
 *.pyc
 *.pyo
 *.pyd
 __pycache__/
-
-# Virtual environments (Python)
 venv/
 env/
 
-# Flask-specific files
+# Flask Specific Files
 instance/
-*.pyc
-*.pyo
-*.pyd
-__pycache__/
 *.sqlite3
+*.pid
 
-# Build outputs (HTML/CSS/JS/Vue.js)
+# Build Outputs
 dist/
 build/
 *.map
 *.css.map
 *.js.map
-*.tmp
-*.bak
 staticfiles/
 public/
-webpack.config.js
-vite.config.js
 
-# Local environment files
+# Vue.js Specific
+node_modules/
+babel.config.js
+.eslintcache
+
+# Bootstrap and CSS Tools
+.sass-cache/
+*.scssc
+
+# Local Environment Files
 .env
 .env.local
 .env.*.local
@@ -53,40 +53,24 @@ nosetests.xml
 test-results.xml
 junit*.xml
 
-# IDE-specific files
+# Temporary Files and Cache
+.cache/
+*.cache
+*.tmp
+*.bak
+
+# IDE-Specific Files
 .vscode/
 .idea/
 *.iml
 
-# System files
+# System Files
 .DS_Store
 Thumbs.db
 
-# Jupyter Notebooks (Python)
+# Jupyter Notebooks
 .ipynb_checkpoints/
 
-# Cache files
-.cache/
-*.cache
-
-# Vue.js-specific
-node_modules/
-babel.config.js
-.eslintcache
-
-# Bootstrap and CSS tools
-.sass-cache/
-*.scssc
-
-# Temporary files
-*.tmp
-*.bak
-
-# Flask development server files
-*.sqlite3
-*.log
-*.pid
-
-# Git-specific files
+# Git-Specific Files
 .git/
 .gitignore
