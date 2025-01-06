@@ -1,0 +1,31 @@
+# Node.js dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Temporary files and system files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+.idea/
+*.iml
+
+# Local environment files
+.env
+.env.local
+
+# Build artifacts
+dist/
+build/
+
+# Git-specific files
+.git/
+.gitignore
+
+# Images and temporary assets
+images/*.tmp
+images/*.bak
