@@ -2,6 +2,20 @@
 
 AI Coin is a futuristic cryptocurrency designed to represent the convergence of artificial intelligence, quantum computing, and nanotechnology. It reflects innovation at the intersection of these advanced technologies, encapsulated in a steampunk-inspired design.
 
+
+## Token Details
+- **Mint Address**: [DBp1P8TYNrZEKNqEu7SXMZRc3hG31iNiH5bTTraxCui](https://explorer.solana.com/address/DBp1P8TYNrZEKNqEu7SXMZRc3hG31iNiH5bTTraxCui?cluster=mainnet)
+- **Blockchain**: Solana
+- **Decimals**: 9
+- **Total Supply**: 1,000,000,000 tokens
+
+## How to Use the Mint Address
+To verify or interact with AI Coin on the Solana blockchain:
+1. Visit the token's page on [Solana Explorer](https://explorer.solana.com/address/DBp1P8TYNrZEKNqEu7SXMZRc3hG31iNiH5bTTraxCui?cluster=mainnet).
+2. Copy the mint address: `DBp1P8TYNrZEKNqEu7SXMZRc3hG31iNiH5bTTraxCui`.
+3. Add it to your Solana-compatible wallet (e.g., Phantom or Solflare).
+
+
 ## Features
 - **Steampunk-Inspired Design**: A fusion of advanced AI themes and intricate mechanical aesthetics.
 - **Quantum and Nano-Innovation**: Symbolizes the integration of quantum computing and nanotechnology into the AI-driven future.
@@ -17,35 +31,6 @@ The coin’s design pays homage to steampunk aesthetics, combining the precision
 - **AI-Driven Financial Systems**: Automate and optimize transactions, lending, and investments using AI algorithms.
 - **Quantum Security**: Leverage quantum-resistant cryptography to secure sensitive data.
 - **Nano Applications**: Fund and promote research in nanotechnology, such as drug delivery systems and precision manufacturing.
-
-
-## Token Details
-- **Mint Address**: [DBp1P8TYNrZEKNqEu7SXMZRc3hG31iNiH5bTTraxCui](https://explorer.solana.com/address/DBp1P8TYNrZEKNqEu7SXMZRc3hG31iNiH5bTTraxCui?cluster=mainnet)
-- **Blockchain**: Solana
-- **Decimals**: 9
-- **Total Supply**: 1,000,000,000 tokens
-
-## How to Use the Mint Address
-To verify or interact with AI Coin on the Solana blockchain:
-1. Visit the token's page on [Solana Explorer](https://explorer.solana.com/address/DBp1P8TYNrZEKNqEu7SXMZRc3hG31iNiH5bTTraxCui?cluster=mainnet).
-2. Copy the mint address: `DBp1P8TYNrZEKNqEu7SXMZRc3hG31iNiH5bTTraxCui`.
-3. Add it to your Solana-compatible wallet (e.g., Phantom or Solflare).
-
----
-
-### **3. În Metadata.json**
-Asigură-te că adresa mint este inclusă și aici pentru transparență:
-
-```json
-{
-  "name": "AI Coin",
-  "symbol": "AIC",
-  "decimals": 9,
-  "totalSupply": "1000000000",
-  "mintAddress": "DBp1P8TYNrZEKNqEu7SXMZRc3hG31iNiH5bTTraxCui",
-  "blockchain": "Solana",
-  "description": "AI Coin represents the convergence of artificial intelligence, quantum computing, and nanotechnology. Built for efficiency and scalability, it is designed to power the next wave of innovation."
-}
 
 
 - **Use Cases**:
