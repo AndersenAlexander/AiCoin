@@ -1,0 +1,9 @@
+{
+  "name": "AI Coin",
+  "symbol": "AIC",
+  "decimals": 9,
+  "totalSupply": "1000000000",
+  "mintAddress": "DBp1P8TYNrZEKNqEu7SXMZRc3hG31iNiH5bTTraxCui",
+  "blockchain": "Solana",
+  "description": "AI Coin represents the convergence of artificial intelligence, quantum computing, and nanotechnology."
+}
