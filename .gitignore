@@ -22,7 +22,7 @@ instance/
 *.sqlite3
 *.pid
 
-# Build Outputs
+# Build Outputs (HTML, CSS, JavaScript, Vue.js)
 dist/
 build/
 *.map
@@ -35,6 +35,8 @@ public/
 node_modules/
 babel.config.js
 .eslintcache
+vite.config.js
+webpack.config.js
 
 # Bootstrap and CSS Tools
 .sass-cache/
@@ -68,7 +70,7 @@ junit*.xml
 .DS_Store
 Thumbs.db
 
-# Jupyter Notebooks
+# Jupyter Notebooks (Python)
 .ipynb_checkpoints/
 
 # Git-Specific Files
