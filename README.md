@@ -49,8 +49,8 @@ The coin’s design pays homage to steampunk aesthetics, combining the precision
 - [Design Assets](images/): High-quality designs and animations of the coin.
 
 ## Contact
-- **Email**: [studio@aicoin.no](mailto:studio@aicoin.no)
-- **Website**: [www.aicoin.no](https://www.aicoin.no)
+- **Email**: [studio@aicoin.dk](mailto:studio@aicoin.no)
+- **Website**: [www.aicoin.dk](https://www.aicoin.no)
 - **Follow us on social media**:
   - [Facebook](https://facebook.com/aicoin)
   - [Instagram](https://instagram.com/aicoin)
