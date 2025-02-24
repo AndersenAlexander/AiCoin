@@ -33,7 +33,14 @@ The coin’s design pays homage to steampunk aesthetics, combining the precision
 - **Nano Applications**: Fund and promote research in nanotechnology, such as drug delivery systems and precision manufacturing.
 
 
-- **Use Cases**:
+- **Presentation film**:
+
+Uploading 3. Ai Coin.mp4…
+
+**Youtube channel**:
+https://www.youtube.com/channel/UCYtUs5_3L-TEusO0AFySnYA
+
+ **Use Cases**:
   - Payment for AI-driven services and tools.
   - Rewards for developers and researchers in quantum and nanotechnology projects.
 
