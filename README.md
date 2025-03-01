@@ -5,10 +5,15 @@ AI Coin is a futuristic cryptocurrency designed to represent the convergence of 
 ## Token Details
 Youtube Chanel: 
 https://www.youtube.com/watch?v=hYlcVS7ZfOw
+
 ![Screenshot 2025-03-02 005245](https://github.com/user-attachments/assets/b5bfa6a2-2cc3-4b7d-8c6d-8a780508440e)
+
 https://www.youtube.com/watch?v=mxZNDtTuBng
+
 ![Screenshot 2025-03-02 005349](https://github.com/user-attachments/assets/05225234-41bc-404a-bc33-384050d88abc)
+
 https://www.youtube.com/watch?v=lpiYQr8tE6Q
+
 ![Screenshot 2025-03-02 005528](https://github.com/user-attachments/assets/a9999adf-a7fc-4971-9303-e96a3d6b8fcb)
 
 
