@@ -3,7 +3,7 @@
 AI Coin is a futuristic cryptocurrency designed to represent the convergence of artificial intelligence, quantum computing, and nanotechnology. It reflects innovation at the intersection of these advanced technologies, encapsulated in a steampunk-inspired design.
 
 ## Token Details
-Youtube Chanel: 
+Presentation Video Youtube Chanel: 
 
 https://www.youtube.com/watch?v=hYlcVS7ZfOw
 
